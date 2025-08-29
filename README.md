@@ -15,7 +15,7 @@
   <a href="https://github.com/edgajuman">
     <img src="https://img.shields.io/badge/Credit-Edgajuman-blueviolet">
   </a>
-  <a href="https://github.com/yourusername">
+  <a href="https://github.com/tknainoo">
     <img src="https://img.shields.io/badge/Owner-NAINOO-green">
   </a>
 </p>
@@ -30,7 +30,7 @@
 
 ---
 
-![screenshot](https://i.imgur.com/4M7IWwP.png)
+![screenshot](https://i.pinimg.com/736x/56/86/4a/56864a79368324716f9db15839e9b02c.jpg)
 
 ## Setup
 
