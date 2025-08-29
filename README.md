@@ -1,87 +1,100 @@
+<h1 align="center">
+  <br>
+  <a href="https://discord.gg/3MhMhhArDK"><img src="https://cdn-icons-png.flaticon.com/512/727/727240.png" alt="MusicBot" width="200"></a>
+  <br>
+  🎶 BDFD Music System v6.1 BETA
+  <br>
+</h1>
 
+<h4 align="center">An advanced music system for Discord bots built with <a href="https://botdesignerdiscord.com" target="_blank">Bot Designer for Discord (BDFD)</a>.</h4>
 
-# Music System in BDFD v6.1 BETA (New Version)
+<p align="center">
+  <a href="https://discord.gg/3MhMhhArDK">
+    <img src="https://img.shields.io/discord/3MhMhhArDK?color=5865F2&label=Support&logo=discord&logoColor=white">
+  </a>
+  <a href="https://github.com/edgajuman">
+    <img src="https://img.shields.io/badge/Credit-Edgajuman-blueviolet">
+  </a>
+  <a href="https://github.com/yourusername">
+    <img src="https://img.shields.io/badge/Owner-NAINOO-green">
+  </a>
+</p>
 
-An advanced system to play music with your Discord bot in **Bot Designer for Discord**.
+<p align="center">
+  <a href="#features">Features</a> •
+  <a href="#setup">Setup</a> •
+  <a href="#commands">Commands</a> •
+  <a href="#support">Support</a> •
+  <a href="#credits">Credits</a>
+</p>
 
+---
 
+![screenshot](https://i.imgur.com/4M7IWwP.png)
 
 ## Setup
 
-#### You only need to create 2 required variables:
+Create these **2 required variables** inside BDFD:
 
-| Name      | Value                         |
-| --------- | ----------------------------- |
-| `TOKEN`   | Your Discord bot token        |
-| `musicMS` | Leave empty (no value needed) |
+| Name      | Value                        |
+|-----------|------------------------------|
+| `TOKEN`   | Your Discord bot token       |
+| `musicMS` | Leave empty (no value)       |
 
-
+---
 
 ## Commands
 
-* !play
-* !stop
-* !vol
-* \$onInteraction (2)
-* \$onInteraction\[Musics]
+- `!play`  
+- `!stop`  
+- `!vol`  
+- `$onInteraction (2)`  
+- `$onInteraction[Musics]`  
 
+---
 
+## Features
 
-## DEV
+### New in v6.1
+- AI-powered recommendations (songs auto-added to the playlist)  
+- Improved button colors and action names  
+- Music download system (download current track for **1 minute only**)  
 
-* **NAINOO**
+### From v6.0
+- 📤 **Send Current Audio** – Upload current track to a text channel  
+- ⏭️ **Jump to Song** – Skip to any track by position  
+- 🔄 **Crossfade** – Smooth song transitions  
+- ⚡ **Speed Control** – Adjust speed (0.25x – 2.0x)  
+- 🎤 **Karaoke Mode** – Reduce vocals for karaoke  
 
+---
 
+## Possible Bugs
+- Rare cases where songs fail to add (usually caused by video permissions).  
+- Some minor bugs may still exist but will be fixed in updates.  
 
-## Credit
+---
 
-* Original system by [Edgajuman](https://github.com/edgajuman)
+## Bot Panel
+
+A web panel is available for managing your music bot:  
+👉 [https://edgabot.lucnodes.es/](https://edgabot.lucnodes.es/)  
+
+🎥 **Demo Video:** https://vimeo.com/1077124656  
 
 ---
 
 ## Support
 
-* [https://discord.gg/3MhMhhArDK](https://discord.gg/3MhMhhArDK)
+Need help? Join our support server:  
+➡️ **https://discord.gg/3MhMhhArDK**
 
 ---
 
-## Features added in the previous version
+## Credits
 
-* Buttons now always appear on the most recently added song
-* Reduced as many errors as possible that prevented adding music
-* Fixed errors for **NON-PREMIUM bots**
-* Added **AI system** (this system gives recommendations and automatically adds them to the playlist)
-* Changed the search library for better readability and fewer errors
-* Added button coloring and action names
-* Added **download system** to download the currently playing music (available for 1 minute only)
+- 👑 Owner: **NAINOO**  
+- 💡 System by: [Edgajuman](https://github.com/edgajuman)  
 
 ---
 
-## Features added in the new version v6.0
-
-* \:outbox\_tray: **Send Current Audio**
-  └ Sends the current song file to any text channel
-
-* ⏭️ **Jump to Song**
-  └ Skip directly to any song in the list by its position
-
-* \:arrows\_counterclockwise: **Crossfade**
-  └ Smooth transitions between songs
-
-* \:zap: **Speed Control**
-  └ Change playback speed (0.25x up to 2.0x)
-
-* \:microphone: **Karaoke Mode**
-  └ Lowers vocals so you can sing along
-
----
-
-## Possible Bugs
-
-The system is fully functional, but some bugs may still occur and will be fixed in future updates.
-Some possible bugs are:
-
-* Songs not being added to the playlist (rarely, usually caused by video permissions).
-
-
-👉 Do you also want me to make a **ready-to-use README.md file** version for GitHub with proper Markdown formatting?
