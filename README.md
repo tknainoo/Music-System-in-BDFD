@@ -1,64 +1,93 @@
 
+
 # Music System in BDFD v6.1 BETA (New Version)
 
-Un sistema avanzado para poder reproducir musica con tu bot de discord en Bot Desinger For Discord.
+An advanced system to play music with your Discord bot in **Bot Designer for Discord**.
 
 
-## Configuración
+## Setup
 
-#### Solo necesitas crear 2 variables obligatoriamente
+#### You only need to create 2 required variables:
 
-
-| nombre | valor     |
-| :-------- | :------- |
-| `TOKEN` | `El token de su bot de discord` | 
-| `musicMS` | `Sin valor` | 
-
-## Comandos
-- !play
-- !stop
-- !vol
-- $onInteraction (2)
-- $onInteraction[Musics]
+| name      | value                    |
+| :-------- | :----------------------- |
+| `TOKEN`   | `Your Discord bot token` |
+| `musicMS` | `No value`               |
 
 
-## Autor
 
-- [Edgajuman](https://github.com/edgajuman)
+## Commands
+
+* !play
+* !stop
+* !vol
+* \$onInteraction (2)
+* \$onInteraction\[Musics]
 
 
-## Soporte
 
-https://discord.gg/RMSYrQCs2r
+## Author
 
-## Cosas añadidas en la versión anterior
-- Ahora los botones se posicionaran siempre en la musica mas reciente añadida
-- Se redujo lo mayor posible los errores que impedian añadir musicas
-- Se soluciono errores de bots NO PREMIUM
-- Se agrego sistema de IA (Este sistema dara recomendaciones y lo añadira automaticamente a la lista)
-- Se cambio de libreria de busqueda para una mejor legibilidad y evitar la mayoria de errores posibles
-- Coloreo de botones y nombres de acción añadido
-- Se añadio sistema de descarga para descargar la musica actualmente sonando de la lista (Solo por 1 minutos, luego de eso no se podra descargar)
+* [Edgajuman](https://github.com/edgajuman)
 
-## Cosas añadidas en la nueva versión v6.0
-- :outbox_tray: Send Current Audio 
-└ Envía el archivo de la canción actual a cualquier canal de texto
-- ⏭️ Jump to Song
-└ Salta directamente a cualquier canción de la lista por su posición
-- :arrows_counterclockwise: Crossfade 
-└ Transiciones suaves entre canciones
-- :zap: Speed Control 
-└ Cambia la velocidad de reproducción (0.25x hasta 2.0x)
-- :microphone: Karaoke Mode 
-└ Reduce las voces para cantar tus canciones favoritas
 
-## Posibles bugs
-El sistema es totalmente funcional, aunque tiene algunos bugs que luego se iran corrigiendo.
-Algunos bugs pueden ser:
-- No agregar musicas a la lista (rara vez, esto mas depende de los permisos de los videos)
 
-## BotPanel
-> Se ah desarrollado un panel para su bot que use este sistema de musica.
-`Link:` https://edgabot.lucnodes.es/
-### Video de demostración
-https://vimeo.com/1077124656
+## Support
+
+* [https://discord.gg/RMSYrQCs2r](https://discord.gg/RMSYrQCs2r)
+* [https://discord.gg/eYkW76WW](https://discord.gg/eYkW76WW)
+
+
+
+## Features added in the previous version
+
+* Buttons will now always appear on the most recently added song
+* Reduced as many errors as possible that prevented adding music
+* Fixed errors for **NON-PREMIUM bots**
+* Added **AI system** (this system gives recommendations and automatically adds them to the playlist)
+* Changed the search library for better readability and to avoid most possible errors
+* Added button coloring and action names
+* Added **download system** to download the currently playing music from the playlist (only for 1 minute, after that it can’t be downloaded)
+
+
+
+## Features added in the new version v6.0
+
+* \:outbox\_tray: **Send Current Audio**
+  └ Sends the current song file to any text channel
+
+* ⏭️ **Jump to Song**
+  └ Skip directly to any song in the list by its position
+
+* \:arrows\_counterclockwise: **Crossfade**
+  └ Smooth transitions between songs
+
+* \:zap: **Speed Control**
+  └ Change playback speed (0.25x up to 2.0x)
+
+* \:microphone: **Karaoke Mode**
+  └ Lowers vocals so you can sing your favorite songs
+
+
+
+## Possible Bugs
+
+The system is fully functional, but it still has some bugs that will be fixed over time.
+Some possible bugs are:
+
+* Music not being added to the playlist (rarely, and mostly due to video permissions).
+
+
+
+## Bot Panel
+
+> A control panel has been developed for your bot that uses this music system.
+> **Link:** [https://edgabot.lucnodes.es/](https://edgabot.lucnodes.es/)
+
+### Demo Video
+
+[https://vimeo.com/1077124656](https://vimeo.com/1077124656)
+
+
+
+Do you want me to also **simplify** this into a shorter **README.md in English** (like for GitHub), or keep it detailed?
