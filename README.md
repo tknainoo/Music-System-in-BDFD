@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <a href="https://discord.gg/3MhMhhArDK"><img src="https://cdn-icons-png.flaticon.com/512/727/727240.png" alt="MusicBot" width="200"></a>
+  <a href="https://discord.gg/3MhMhhArDK"><img src="https://avatars.githubusercontent.com/u/95946856?s=200&v=4" alt="MusicBot" width="200"></a>
   <br>
   🎶 BDFD Music System v6.1 BETA
   <br>
@@ -93,7 +93,7 @@ Need help? Join our support server:
 
 ## Credits
 
-- 👑 Owner: **NAINOO**  
+- 👑 Owner GitHUb: **NAINOO**  
 - 💡 System by: [Edgajuman](https://github.com/edgajuman)  
 
 ---
