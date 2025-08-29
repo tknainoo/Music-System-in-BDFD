@@ -30,7 +30,7 @@
 
 ---
 
-![screenshot](https://i.pinimg.com/originals/c6/cf/c3/c6cfc39c24c3e34a85fb533819b7ec59.gif)
+![screenshot](https://i.pinimg.com/1200x/49/e9/af/49e9afe7e622acf8bfdd66b807a6d41c.jpg)
 
 ## Setup
 
