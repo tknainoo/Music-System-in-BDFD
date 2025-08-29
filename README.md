@@ -5,14 +5,15 @@
 An advanced system to play music with your Discord bot in **Bot Designer for Discord**.
 
 
+
 ## Setup
 
 #### You only need to create 2 required variables:
 
-| name      | value                    |
-| :-------- | :----------------------- |
-| `TOKEN`   | `Your Discord bot token` |
-| `musicMS` | `No value`               |
+| Name      | Value                         |
+| --------- | ----------------------------- |
+| `TOKEN`   | Your Discord bot token        |
+| `musicMS` | Leave empty (no value needed) |
 
 
 
@@ -26,30 +27,35 @@ An advanced system to play music with your Discord bot in **Bot Designer for Dis
 
 
 
-## Author
+## DEV
 
-* [Edgajuman](https://github.com/edgajuman)
+* **NAINOO**
 
 
+
+## Credit
+
+* Original system by [Edgajuman](https://github.com/edgajuman)
+
+---
 
 ## Support
 
-* [https://discord.gg/RMSYrQCs2r](https://discord.gg/RMSYrQCs2r)
-* [https://discord.gg/eYkW76WW](https://discord.gg/eYkW76WW)
+* [https://discord.gg/3MhMhhArDK](https://discord.gg/3MhMhhArDK)
 
-
+---
 
 ## Features added in the previous version
 
-* Buttons will now always appear on the most recently added song
+* Buttons now always appear on the most recently added song
 * Reduced as many errors as possible that prevented adding music
 * Fixed errors for **NON-PREMIUM bots**
 * Added **AI system** (this system gives recommendations and automatically adds them to the playlist)
-* Changed the search library for better readability and to avoid most possible errors
+* Changed the search library for better readability and fewer errors
 * Added button coloring and action names
-* Added **download system** to download the currently playing music from the playlist (only for 1 minute, after that it can’t be downloaded)
+* Added **download system** to download the currently playing music (available for 1 minute only)
 
-
+---
 
 ## Features added in the new version v6.0
 
@@ -66,28 +72,16 @@ An advanced system to play music with your Discord bot in **Bot Designer for Dis
   └ Change playback speed (0.25x up to 2.0x)
 
 * \:microphone: **Karaoke Mode**
-  └ Lowers vocals so you can sing your favorite songs
+  └ Lowers vocals so you can sing along
 
-
+---
 
 ## Possible Bugs
 
-The system is fully functional, but it still has some bugs that will be fixed over time.
+The system is fully functional, but some bugs may still occur and will be fixed in future updates.
 Some possible bugs are:
 
-* Music not being added to the playlist (rarely, and mostly due to video permissions).
+* Songs not being added to the playlist (rarely, usually caused by video permissions).
 
 
-
-## Bot Panel
-
-> A control panel has been developed for your bot that uses this music system.
-> **Link:** [https://edgabot.lucnodes.es/](https://edgabot.lucnodes.es/)
-
-### Demo Video
-
-[https://vimeo.com/1077124656](https://vimeo.com/1077124656)
-
-
-
-Do you want me to also **simplify** this into a shorter **README.md in English** (like for GitHub), or keep it detailed?
+👉 Do you also want me to make a **ready-to-use README.md file** version for GitHub with proper Markdown formatting?
